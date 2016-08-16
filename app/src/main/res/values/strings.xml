@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice_play_music</string>
+
+    <string name="music_1" >music_1</string>
+    <string name="music_2">music_2</string>
+    <string name="music_3">music_3</string>
+
+    <string name="play">start</string>
+    <string name="pause">pause</string>
+    <string name="reset">reset</string>
+
+
+
+</resources>
